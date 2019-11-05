@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Celebridades</string>
+    <string name="imagem_celebridade_descricao">Imagem da celebridadeEntity</string>
+    <string name="imagem_transition">imagemTransition</string>
+    <string name="nome_transition">nomeTransition</string>
+    <string name="card_transition">cardTransition</string>
+    <string name="example_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas imperdiet dolor et consequat varius. Maecenas at hendrerit lacus.</string>
+    <string name="aspas">\"</string>
+</resources>
