@@ -9,13 +9,18 @@ object CelebridadesUtil {
             CelebridadeEntity(1, "Justin Bieber", R.drawable.justin_bieber),
             CelebridadeEntity(2, "Beyonce", R.drawable.beyonce),
             CelebridadeEntity(3, "Daniel Radcliffe", R.drawable.daniel_radcliffe),
-            CelebridadeEntity(4, "Ellen DeGeneres", R.drawable.ellen_degeneres),
-            CelebridadeEntity(5, "Emma Watson", R.drawable.emma_watson),
-            CelebridadeEntity(6, "Fatima Bernardes", R.drawable.fatima_bernardes),
-            CelebridadeEntity(7, "Gloria Maria", R.drawable.gloria_maria),
-            CelebridadeEntity(8, "Paola Carosella", R.drawable.paola_carosella),
-            CelebridadeEntity(9, "Taylor Swift", R.drawable.taylor_swift),
-            CelebridadeEntity(10, "William Bonner", R.drawable.william_bonner)
+            CelebridadeEntity(4, "Wesley Safadão", R.drawable.wesley_safadao),
+            CelebridadeEntity(5, "Whindersson Nunes", R.drawable.whindersson_nunes),
+            CelebridadeEntity(6, "Ayrton Senna", R.drawable.ayrton_senna),
+            CelebridadeEntity(7, "David Goggins", R.drawable.david_goggins),
+            CelebridadeEntity(8, "Mestre Yoda", R.drawable.mestre_yoda),
+            CelebridadeEntity(9, "Luan Santana", R.drawable.luan_santana),
+            CelebridadeEntity(10, "PewDiePie", R.drawable.pew_die_pie),
+            CelebridadeEntity(11, "Felipe Neto", R.drawable.felipeneto),
+            CelebridadeEntity(12, "Alan Turing", R.drawable.alan_turring),
+            CelebridadeEntity(13, "Linux Torvalds", R.drawable.linux_torvalds)
+
+
         )
     }
 }
