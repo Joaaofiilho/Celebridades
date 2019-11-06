@@ -51,6 +51,7 @@ class CelebridadesAdapter(val context: Context, val onItemClicked: (itemView: Vi
     override fun onBindViewHolder(holder: CelebridadeViewHolder, position: Int) {
         getItemAt(position)?.let { holder.bind(it, onItemClicked) }
         //Anima o item quando ele fica visivel (onBindViewHolder eh chamado quando o item fica visivel)
+        //Só é animado uma vez porque eu sempre checo se a posição máxima que o usuário chegou na lista não foi atingida.
         setAnimation(holder.itemView, position)
     }
 

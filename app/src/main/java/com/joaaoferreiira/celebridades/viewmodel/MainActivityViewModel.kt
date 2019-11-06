@@ -34,7 +34,7 @@ class MainActivityViewModel(
     fun carregarCelebridadesFromDB() {
         viewModelScope.launch {
             val celebridades = database.celebridadeWithFrasesDao().getCelebridadeComFrases()
-            _onCelebridadesCarregadas.value = celebridades
+            _onCelebridadesCarregadas.value = celebridades.sortedBy { celeb -> celeb.celebridade?.nome }
         }
     }
 }

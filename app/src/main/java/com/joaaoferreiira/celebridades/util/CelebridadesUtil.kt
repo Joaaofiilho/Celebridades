@@ -16,7 +16,7 @@ object CelebridadesUtil {
             CelebridadeEntity(8, "Mestre Yoda", R.drawable.mestre_yoda),
             CelebridadeEntity(9, "Luan Santana", R.drawable.luan_santana),
             CelebridadeEntity(10, "PewDiePie", R.drawable.pew_die_pie),
-            CelebridadeEntity(11, "Felipe Neto", R.drawable.felipeneto),
+            CelebridadeEntity(11, "Felipe Neto", R.drawable.felipe_neto),
             CelebridadeEntity(12, "Alan Turing", R.drawable.alan_turring),
             CelebridadeEntity(13, "Linux Torvalds", R.drawable.linux_torvalds),
             CelebridadeEntity(14, "Emma Watson", R.drawable.emma_watson),
